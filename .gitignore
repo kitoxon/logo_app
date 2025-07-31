@@ -1,0 +1,25 @@
+# Python virtual environment
+/venv/
+
+# Output & Logs
+/output_frames/
+/output_frames_fc_tokyo/
+/output_frames_rb/
+/output_frames_rb1/
+/output_images_rb_sns/
+/test_images/
+
+# Log files
+*.pt
+*.MOV
+*.MTS
+*.json
+
+# Optional: VS Code / editor stuff
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# OS-specific
+Thumbs.db

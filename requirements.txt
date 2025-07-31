@@ -1,0 +1,10 @@
+opencv-python==4.8.0.76
+numpy==1.25.2
+boto3==1.28.38
+requests==2.31.0
+google-api-python-client==2.97.0
+google-auth==2.22.0
+google-auth-httplib2==0.1.0
+google-auth-oauthlib==1.0.0
+pytesseract==0.3.13
+scikit-learn==1.6.1
